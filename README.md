@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/45934061/68114280-f8dd1280-ff38-11e9-8581-f43fc882fe99.png"></img></p><h1 align="center">IDLE</h1><p align="center">당신의 IDLE time을 책임지는 뉴스웹페이지, IDLE</p>
 
-GitHub : [IDLE](<https://github.com/kyeah01/customized_news_page>)
+GitHub : [IDLE](<https://github.com/HSx3/webmobile_project_IDLE>)
 
 IDLE은 Customized News Page로써, 키워드 기반, 신문사 기반의 뉴스 구독을 서비스하는 개인화 뉴스 웹페이지 서비스입니다. 키워드, 신문사를 유저가 원하는대로 등록하고, 그에 따른 개인별 페이지를 제공받을 수 있습니다.
 
